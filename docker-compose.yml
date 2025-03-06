@@ -53,3 +53,4 @@ services:
     deploy: {}
     environment:
       - CLI_ARGS=--cpu
+
